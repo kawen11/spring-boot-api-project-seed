@@ -14,7 +14,7 @@ public class Test {
         String key = "book";  
         boolean contains = map.containsKey(key);  
         if (contains) {  
-            System.out.println("在Map集合中包含键名1111222233334444" + key);  
+            System.out.println("在Map集合中包含键名11112222333344445555" + key);  
         } else {  
             System.out.println("在Map集合中不包含键名" + key);  
         }  
